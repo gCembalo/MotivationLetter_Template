@@ -1,6 +1,6 @@
 # Fdb version 4
-["pdflatex"] 1776843473.46811 "/Users/gabriele/GitHub/MotivationLetter_Template/CoverLetter.tex" "CoverLetter.pdf" "CoverLetter" 1776843474.03098 0
-  "/Users/gabriele/GitHub/MotivationLetter_Template/CoverLetter.tex" 1776843473.24399 5914 ace2f7786555b1d44ed111a85187c843 ""
+["pdflatex"] 1776843637.31063 "/Users/gabriele/GitHub/MotivationLetter_Template/CoverLetter.tex" "CoverLetter.pdf" "CoverLetter" 1776843637.87996 0
+  "/Users/gabriele/GitHub/MotivationLetter_Template/CoverLetter.tex" 1776843637.08635 5970 2108ec94d03758aa86d062cc77ba259e ""
   "/usr/local/texlive/2025/texmf-dist/fonts/enc/dvips/base/8r.enc" 1165713224 4850 80dc9bab7f31fb78a000ccfed0e27cab ""
   "/usr/local/texlive/2025/texmf-dist/fonts/map/fontname/texfonts.map" 1577235249 3524 cb3e574dea2d1052e39280babc910dc8 ""
   "/usr/local/texlive/2025/texmf-dist/fonts/tfm/bitstrea/charter/bchb7t.tfm" 1136768653 2732 006d846b4d54f9b40899c7c3eecd771a ""
@@ -9,6 +9,10 @@
   "/usr/local/texlive/2025/texmf-dist/fonts/tfm/bitstrea/charter/bchr8r.tfm" 1136768653 4644 551129616ea4f62d8f0094a3db9a3f9d ""
   "/usr/local/texlive/2025/texmf-dist/fonts/type1/bitstrea/charter/bchb8a.pfb" 1136849748 33799 6c8c18c1e1a138641a52c29f0b878445 ""
   "/usr/local/texlive/2025/texmf-dist/fonts/type1/bitstrea/charter/bchr8a.pfb" 1136849748 34869 539b6fed90ef630e9049bc13079bc598 ""
+  "/usr/local/texlive/2025/texmf-dist/fonts/type1/public/amsfonts/cm/cmmi10.pfb" 1248133631 36299 5f9df58c2139e7edcf37c8fca4bd384d ""
+  "/usr/local/texlive/2025/texmf-dist/fonts/type1/public/amsfonts/cm/cmmi7.pfb" 1248133631 36281 c355509802a035cadc5f15869451dcee ""
+  "/usr/local/texlive/2025/texmf-dist/fonts/type1/public/amsfonts/cm/cmr10.pfb" 1248133631 35752 024fb6c41858982481f6968b5fc26508 ""
+  "/usr/local/texlive/2025/texmf-dist/fonts/type1/public/amsfonts/cm/cmsy10.pfb" 1248133631 32569 5e5ddc8df908dea60932f3c484a54c0d ""
   "/usr/local/texlive/2025/texmf-dist/fonts/vf/bitstrea/charter/bchb7t.vf" 1136768653 1372 e6cfde23c168b1d1864ce6aa6dffa18b ""
   "/usr/local/texlive/2025/texmf-dist/fonts/vf/bitstrea/charter/bchr7t.vf" 1136768653 1372 955cf021d0094e95829436b7bdab6458 ""
   "/usr/local/texlive/2025/texmf-dist/tex/context/base/mkii/supp-pdf.mkii" 1461363279 71627 94eb9990bed73c364d7f53f960cc8c5b ""
@@ -33,8 +37,8 @@
   "/usr/local/texlive/2025/texmf-var/fonts/map/pdftex/updmap/pdftex.map" 1743493427 5467155 19efa205003f9ecad95fbbaa6ff24da1 ""
   "/usr/local/texlive/2025/texmf-var/web2c/pdftex/pdflatex.fmt" 1743493289 3345731 1b54ae79c33d7c2bf6de57c6693051df ""
   "/usr/local/texlive/2025/texmf.cnf" 1741450484 577 418a7058ec8e006d8704f60ecd22c938 ""
-  "CoverLetter.aux" 1776843473.99504 32 3985256e7290058c681f74d7a3565a19 "pdflatex"
-  "CoverLetter.tex" 1776843473.24399 5914 ace2f7786555b1d44ed111a85187c843 ""
+  "CoverLetter.aux" 1776843637.83493 32 3985256e7290058c681f74d7a3565a19 "pdflatex"
+  "CoverLetter.tex" 1776843637.08635 5970 2108ec94d03758aa86d062cc77ba259e ""
   (generated)
   "CoverLetter.aux"
   "CoverLetter.log"
